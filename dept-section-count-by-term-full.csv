@@ -1,0 +1,641 @@
+name,term,count
+Psychology,19S,338
+Psychology,20W,329
+Psychology,03W,327
+Psychology,17S,313
+Psychology,17W,312
+Psychology,02S,311
+Psychology,16S,310
+Psychology,18S,308
+Psychology,19W,301
+Psychology,13S,301
+Psychology,05W,296
+Psychology,10S,293
+Psychology,02W,293
+Psychology,16W,292
+Psychology,15W,291
+English,04S,290
+Psychology,16F,290
+Chemistry and Biochemistry,04W,290
+Psychology,18W,289
+Chemistry and Biochemistry,03F,288
+Psychology,09W,288
+Psychology,15S,288
+Psychology,18F,287
+Psychology,14W,287
+Psychology,19F,287
+Psychology,12S,286
+Management,12W,285
+Psychology,09S,284
+Psychology,10W,283
+Psychology,13W,282
+Psychology,03S,281
+Psychology,13F,281
+Psychology,12W,279
+Psychology,14S,278
+Psychology,05F,276
+Psychology,07S,275
+Psychology,06S,275
+Psychology,05S,274
+Psychology,04F,272
+Psychology,07W,270
+English,02W,268
+Psychology,08W,268
+English,02S,268
+Psychology,12F,267
+Psychology,15F,265
+Psychology,11W,265
+Psychology,06W,264
+Management,17W,264
+English,04W,263
+English,99S,263
+English,00S,262
+English,99W,262
+Music,20W,262
+Music,19F,261
+English,00W,261
+English,01W,260
+English,99F,259
+Psychology,14F,259
+English,03W,258
+Psychology,11F,258
+Psychology,17F,258
+Psychology,09F,257
+English,03F,256
+English,03S,255
+English,02F,255
+Psychology,06F,254
+English,01S,253
+Management,13W,253
+Psychology,08F,252
+Management,14F,252
+Music,20S,251
+Psychology,08S,248
+Management,14W,247
+History,05W,247
+Psychology,02F,247
+English,01F,247
+English,00F,245
+Chemistry and Biochemistry,03W,244
+Management,13F,244
+Management,19W,244
+Chemistry and Biochemistry,20W,243
+Psychology,10F,242
+Management,12F,241
+Management,10W,241
+Psychology,01S,241
+Chemistry and Biochemistry,00W,239
+Chemistry and Biochemistry,02W,238
+Chemistry and Biochemistry,01W,238
+Psychology,01F,237
+Chemistry and Biochemistry,19W,236
+Psychology,07F,235
+Management,18W,235
+Chemistry and Biochemistry,02F,235
+Chemistry and Biochemistry,00S,234
+Music,12F,234
+Psychology,01W,234
+Music,11F,233
+Management,16W,233
+Chemistry and Biochemistry,00F,232
+Psychology,04W,231
+Chemistry and Biochemistry,18W,231
+Chemistry and Biochemistry,01F,230
+Chemistry and Biochemistry,01S,230
+Chemistry and Biochemistry,19F,229
+Chemistry and Biochemistry,03S,229
+Management,16F,228
+Psychology,00F,228
+Music,16S,227
+Management,11F,226
+Music,10F,226
+Music,13F,226
+Chemistry and Biochemistry,17W,226
+Music,17W,226
+Psychology,00S,225
+Psychology,20S,224
+Chemistry and Biochemistry,17F,224
+Music,16W,224
+Music,15W,223
+Music,17S,223
+Music,12W,222
+Chemistry and Biochemistry,02S,222
+Management,18F,222
+Psychology,99S,222
+Chemistry and Biochemistry,19S,221
+Music,15F,221
+Music,11W,221
+Psychology,99W,220
+Management,15W,219
+Music,15S,219
+Management,17F,219
+Chemistry and Biochemistry,18F,219
+Physics and Astronomy,08W,218
+Chemistry and Biochemistry,18S,218
+Music,16F,218
+Psychology,04S,217
+Physics and Astronomy,05W,216
+Chemistry and Biochemistry,16F,216
+Music,14W,216
+History,05S,216
+Chemistry and Biochemistry,16W,215
+Physics and Astronomy,18W,215
+Physics and Astronomy,19W,215
+Music,17F,215
+Psychology,00W,214
+Music,13W,214
+Music,13S,213
+Physics and Astronomy,14W,213
+Physics and Astronomy,06W,213
+Chemistry and Biochemistry,16S,213
+Music,14F,213
+Physics and Astronomy,15W,213
+Physics and Astronomy,07W,212
+Music,14S,212
+Management,09F,212
+Chemistry and Biochemistry,17S,212
+Chemistry and Biochemistry,15W,212
+Theater,10W,210
+Chemistry and Biochemistry,13S,209
+Music,12S,209
+Physics and Astronomy,09W,209
+History,09W,209
+Management,09W,209
+Management,11W,209
+Management,10S,208
+Physics and Astronomy,17W,208
+Management,13S,207
+Chemistry and Biochemistry,15F,206
+Chemistry and Biochemistry,12F,206
+Management,17S,205
+Chemistry and Biochemistry,14S,205
+Chemistry and Biochemistry,12W,205
+Management,10F,205
+Psychology,99F,205
+Physics and Astronomy,13W,204
+Physics and Astronomy,18F,204
+Chemistry and Biochemistry,14W,204
+Physics and Astronomy,12W,204
+Chemistry and Biochemistry,11W,204
+Physics and Astronomy,17F,203
+Chemistry and Biochemistry,10F,203
+Chemistry and Biochemistry,12S,202
+Chemistry and Biochemistry,07W,202
+Physics and Astronomy,11W,202
+Physics and Astronomy,16W,202
+Management,15F,202
+Chemistry and Biochemistry,15S,202
+Chemistry and Biochemistry,13F,201
+Chemistry and Biochemistry,11F,201
+Chemistry and Biochemistry,99W,201
+Chemistry and Biochemistry,05W,200
+Music,09F,200
+Physics and Astronomy,05S,200
+Music,09S,200
+Music,08F,200
+Music,10S,199
+Chemistry and Biochemistry,10S,199
+Physics and Astronomy,14S,199
+Physics and Astronomy,10W,199
+Music,10W,199
+Music,09W,199
+Chemistry and Biochemistry,99S,198
+Chemistry and Biochemistry,06W,198
+Music,19S,198
+Physics and Astronomy,08S,197
+History,06S,197
+Management,12S,197
+Chemistry and Biochemistry,06F,196
+Physics and Astronomy,16S,196
+Chemistry and Biochemistry,13W,196
+Physics and Astronomy,15S,195
+History,04F,195
+Physics and Astronomy,06S,195
+Physics and Astronomy,06F,195
+Music,07W,195
+Theater,11W,195
+Music,18S,194
+Physics and Astronomy,17S,194
+Physics and Astronomy,12S,194
+Chemistry and Biochemistry,09F,194
+Chemistry and Biochemistry,14F,194
+Music,07F,194
+Music,07S,194
+Music,08S,194
+Music,08W,194
+Physics and Astronomy,18S,194
+Theater,09W,194
+Music,18F,194
+Management,09S,193
+Theater,07W,193
+Chemistry and Biochemistry,08F,193
+Chemistry and Biochemistry,99F,192
+Management,19S,192
+Physics and Astronomy,07S,192
+Chemistry and Biochemistry,20S,192
+Chemistry and Biochemistry,05S,192
+Music,06F,191
+Management,20S,190
+Chemistry and Biochemistry,10W,190
+History,06W,190
+Mathematics,19F,190
+Theater,08W,190
+Chemistry and Biochemistry,09S,189
+Theater,08F,189
+Physics and Astronomy,19S,189
+Chemistry and Biochemistry,09W,188
+Chemistry and Biochemistry,06S,188
+Physics and Astronomy,09S,188
+Theater,18S,187
+Management,08W,187
+Management,19F,187
+Music,05F,186
+Music,05W,186
+Mathematics,20W,185
+Music,18W,185
+Music,19W,185
+Music,03F,184
+Chemistry and Biochemistry,04F,184
+Chemistry and Biochemistry,05F,184
+Theater,10S,184
+Theater,08S,184
+History,08S,184
+Music,06S,184
+Physics and Astronomy,13S,184
+Music,06W,183
+Physics and Astronomy,07F,183
+Theater,17W,183
+History,07W,183
+Music,04S,183
+Management,14S,183
+Mathematics,16F,183
+Theater,06S,183
+Theater,06W,182
+Music,05S,182
+Music,00F,181
+Chemistry and Biochemistry,08S,181
+History,08W,181
+History,09S,181
+Music,04W,180
+Physics and Astronomy,10S,180
+Music,04F,179
+Theater,12W,179
+Theater,03S,179
+Theater,10F,179
+Physics and Astronomy,05F,178
+History,07S,178
+Psychology,03F,178
+"Film, Television, and Digital Media",13F,178
+Theater,09S,178
+Theater,07S,178
+Physics and Astronomy,04F,178
+Theater,02S,178
+History,10W,177
+Music,01F,177
+Chemistry and Biochemistry,04S,177
+Management,07W,177
+Physics and Astronomy,16F,176
+Music,02W,176
+"Film, Television, and Digital Media",15F,175
+Music,01S,175
+Theater,17F,175
+Music,01W,175
+Physics and Astronomy,08F,174
+"Film, Television, and Digital Media",14F,174
+Mathematics,17F,174
+Mathematics,18F,174
+History,06F,173
+Music,02S,173
+Management,08F,173
+Physics and Astronomy,15F,173
+Theater,17S,173
+Physics and Astronomy,12F,173
+Mathematics,18W,173
+"Film, Television, and Digital Media",16F,173
+"Film, Television, and Digital Media",12F,172
+Mathematics,17W,172
+Physics and Astronomy,13F,172
+Physics and Astronomy,20S,172
+Theater,11F,172
+Theater,18F,172
+Music,03S,171
+Mathematics,19W,171
+Music,03W,171
+Theater,06F,171
+Physics and Astronomy,09F,171
+Physics and Astronomy,04S,171
+Chemistry and Biochemistry,08W,171
+Physics and Astronomy,14F,170
+Management,15S,170
+"Film, Television, and Digital Media",11F,170
+Theater,16W,170
+Management,05W,169
+Physics and Astronomy,04W,169
+Management,20W,169
+Physics and Astronomy,11F,169
+Theater,19W,169
+"Film, Television, and Digital Media",09F,168
+Theater,09F,167
+Music,02F,167
+Management,06W,167
+Management,18S,167
+Theater,18W,166
+Management,16S,166
+Physics and Astronomy,03W,166
+"Film, Television, and Digital Media",10F,166
+Physics and Astronomy,10F,166
+Management,08S,166
+Mathematics,16W,166
+Physics and Astronomy,03S,165
+Physics and Astronomy,01W,165
+Theater,07F,165
+Physics and Astronomy,99W,165
+Theater,04W,165
+Physics and Astronomy,01S,163
+Theater,05F,163
+Theater,16F,162
+Theater,20W,162
+Mathematics,19S,162
+Physics and Astronomy,02S,161
+Physics and Astronomy,02W,161
+Mathematics,17S,161
+Music,99F,160
+Chemistry and Biochemistry,07F,160
+History,09F,160
+"Film, Television, and Digital Media",13W,160
+Mathematics,18S,159
+Theater,16S,159
+Music,99S,158
+Mathematics,15F,158
+Management,07F,158
+Mathematics,15W,158
+Physics and Astronomy,00W,158
+Physics and Astronomy,03F,158
+Theater,19F,157
+Physics and Astronomy,00S,157
+History,15W,157
+Theater,19S,157
+"Film, Television, and Digital Media",15S,157
+Management,05F,157
+Theater,12S,157
+Management,04F,156
+Theater,15W,156
+History,11W,155
+"Film, Television, and Digital Media",13S,155
+Music,99W,155
+Theater,03F,155
+Physics and Astronomy,99S,155
+"Film, Television, and Digital Media",12S,154
+Physics and Astronomy,00F,154
+History,08F,154
+Mathematics,16S,154
+Mathematics,14F,153
+Music,00S,153
+Physics and Astronomy,02F,153
+Music,00W,152
+Mathematics,20S,152
+Theater,03W,152
+Physics and Astronomy,01F,152
+English,05W,151
+English,09W,151
+Management,03S,151
+"Film, Television, and Digital Media",16W,150
+Management,06F,150
+English,06W,150
+History,12W,150
+Theater,13W,149
+Physics and Astronomy,99F,149
+"Film, Television, and Digital Media",09S,149
+Theater,20S,149
+"Film, Television, and Digital Media",07W,149
+"Film, Television, and Digital Media",06F,149
+History,10S,149
+Management,99W,149
+"Film, Television, and Digital Media",07F,148
+Theater,14F,148
+"Film, Television, and Digital Media",08F,148
+History,05F,148
+Mathematics,15S,148
+Chemistry and Biochemistry,07S,147
+Mathematics,13F,147
+Theater,04F,147
+"Film, Television, and Digital Media",14S,147
+"Film, Television, and Digital Media",14W,147
+Theater,02W,147
+History,17F,147
+Theater,15F,146
+History,18W,146
+Theater,05S,146
+Management,02S,146
+History,13S,146
+History,12S,145
+Theater,00F,145
+"Film, Television, and Digital Media",17F,144
+History,16W,144
+Mathematics,14S,143
+"Film, Television, and Digital Media",17W,142
+English,05F,142
+Mathematics,09W,142
+Theater,14W,142
+History,12F,142
+"Film, Television, and Digital Media",08S,142
+Mathematics,11F,142
+History,14F,141
+English,07W,141
+Theater,05W,141
+"Film, Television, and Digital Media",04F,141
+"Film, Television, and Digital Media",11W,141
+Theater,00W,141
+Theater,13F,141
+"Film, Television, and Digital Media",12W,140
+Mathematics,14W,140
+"Film, Television, and Digital Media",05F,140
+Mathematics,05W,140
+Theater,04S,140
+English,16F,140
+Theater,15S,140
+History,07F,140
+English,06S,140
+History,17W,140
+History,13W,139
+English,16W,139
+English,17F,139
+English,19W,139
+Mathematics,13W,139
+Mathematics,12W,139
+Management,07S,138
+History,11F,138
+Mathematics,12F,138
+English,16S,138
+History,14W,138
+History,17S,138
+Mathematics,08W,138
+Mathematics,11W,137
+Mathematics,08F,137
+English,06F,137
+"Film, Television, and Digital Media",17S,137
+"Film, Television, and Digital Media",16S,136
+Mathematics,09F,136
+"Film, Television, and Digital Media",02F,136
+History,15S,136
+English,15F,135
+Theater,99F,135
+Management,99S,135
+Theater,02F,135
+English,20W,134
+Mathematics,02W,134
+English,14W,134
+"Film, Television, and Digital Media",10S,134
+Theater,01W,134
+Management,01S,134
+"Film, Television, and Digital Media",03F,134
+"Film, Television, and Digital Media",03S,133
+History,10F,133
+Mathematics,10F,133
+English,08W,133
+"Film, Television, and Digital Media",07S,132
+English,04F,132
+English,17W,132
+English,17S,132
+"Film, Television, and Digital Media",04W,132
+Management,04S,132
+"Film, Television, and Digital Media",18S,132
+Theater,00S,131
+Management,06S,131
+English,18W,131
+Mathematics,03W,131
+History,19W,131
+History,14S,131
+"Film, Television, and Digital Media",09W,130
+Theater,01S,130
+Mathematics,01W,130
+History,02W,130
+Mathematics,05S,130
+"Film, Television, and Digital Media",08W,130
+Mathematics,08S,129
+English,09S,129
+English,18F,129
+Mathematics,07W,128
+Mathematics,02S,128
+"Film, Television, and Digital Media",15W,128
+Theater,01F,128
+Theater,14S,128
+"Film, Television, and Digital Media",18F,127
+English,10W,127
+Mathematics,06W,127
+"Film, Television, and Digital Media",10W,126
+"Film, Television, and Digital Media",03W,126
+"Film, Television, and Digital Media",18W,126
+History,04S,126
+History,18S,126
+Management,05S,126
+Mathematics,04W,126
+Mathematics,06S,126
+Mathematics,07F,126
+Mathematics,09S,126
+Theater,13S,126
+English,07F,125
+Mathematics,01F,125
+"Film, Television, and Digital Media",02S,125
+Mathematics,10S,125
+English,13W,124
+"Film, Television, and Digital Media",06S,124
+English,19S,124
+English,08F,124
+Management,00W,123
+Mathematics,12S,123
+Mathematics,10W,123
+English,15W,123
+English,07S,123
+Mathematics,03F,122
+Mathematics,06F,122
+English,19F,122
+Theater,12F,122
+"Film, Television, and Digital Media",00W,122
+"Film, Television, and Digital Media",01F,122
+"Film, Television, and Digital Media",06W,122
+English,11W,121
+History,99W,121
+Mathematics,02F,121
+"Film, Television, and Digital Media",02W,121
+History,18F,121
+History,16S,121
+History,20W,120
+English,08S,120
+History,04W,120
+English,13F,120
+Management,00S,119
+"Film, Television, and Digital Media",00F,119
+"Film, Television, and Digital Media",05W,119
+Mathematics,07S,119
+Mathematics,00F,118
+English,18S,118
+"Film, Television, and Digital Media",19F,118
+English,15S,117
+Mathematics,03S,117
+English,14S,117
+History,15F,117
+English,09F,116
+English,14F,116
+History,16F,116
+"Film, Television, and Digital Media",00S,116
+History,00S,116
+English,05S,116
+"Film, Television, and Digital Media",19S,115
+Mathematics,00W,115
+English,11F,115
+Theater,99W,115
+"Film, Television, and Digital Media",05S,115
+Mathematics,01S,115
+History,19F,115
+Physics and Astronomy,20W,115
+English,12W,115
+English,12S,114
+Mathematics,13S,114
+Physics and Astronomy,19F,114
+English,12F,114
+"Film, Television, and Digital Media",99F,113
+Theater,99S,113
+English,13S,112
+History,13F,112
+"Film, Television, and Digital Media",01S,112
+History,01S,112
+History,99S,112
+"Film, Television, and Digital Media",01W,111
+History,00W,111
+"Film, Television, and Digital Media",19W,111
+English,10F,110
+"Film, Television, and Digital Media",99W,110
+Mathematics,04S,110
+History,01W,110
+"Film, Television, and Digital Media",04S,109
+Mathematics,05F,109
+History,03F,108
+Mathematics,99W,107
+History,03W,107
+Management,01W,107
+Management,99F,106
+History,02S,106
+Management,02W,106
+"Film, Television, and Digital Media",20S,105
+Mathematics,04F,105
+Mathematics,00S,105
+History,99F,104
+"Film, Television, and Digital Media",99S,104
+History,03S,102
+Mathematics,99F,102
+Management,04W,101
+Mathematics,99S,100
+English,20S,99
+Management,02F,99
+History,01F,98
+English,10S,97
+"Film, Television, and Digital Media",20W,96
+History,02F,96
+History,19S,94
+Management,03W,91
+Management,03F,91
+History,00F,89
+History,20S,88
+Management,00F,83
+Management,01F,73
